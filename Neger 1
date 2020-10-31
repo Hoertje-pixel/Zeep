@@ -1,5 +1,1 @@
-If(Ik ben gay)
-  Yes(): 
-    Write("U gay")
-  No():
-    Write("Good")
+
